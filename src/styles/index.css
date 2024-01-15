@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.allCounter {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    background-color: rgb(80, 80, 80);
+    margin: 0% 40% 0% 40%;
+  }
+  
+  .box {
+    background-color: black;
+    border-radius: 20%;
+    color: white;
+    height: 50px;
+    width: 600px;
+  }
+  
